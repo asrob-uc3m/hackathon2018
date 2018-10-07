@@ -1,2 +1,2 @@
-# evento2018
-Repositorio para la web del evento-hackathon de 2018
+# evento2016
+Web de El Evento 2016: https://asrob-uc3m.github.io/evento2016

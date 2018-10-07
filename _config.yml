@@ -1,0 +1,46 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "El Evento - 24-27 Octubre 2016 - UC3M (Leganés)"
+keywords:    "asrob, uc3music, hardware, software, mechanics, arduino, dsp, robots"
+description: "Sitio web del Evento 2016"
+source_link: "#"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#5da633'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#3db6b0'
+  grey:      '#cecfd1'
+  pink:      '#5857b4'
+  red:       '#a61949'
+  
+
+kramdown:
+  auto_ids:  false
+
+collections:
+  - charlas
+  - talleres
+
