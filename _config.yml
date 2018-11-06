@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "El Evento - 24-27 Octubre 2016 - UC3M (Leganés)"
+title:       "Hackatón 2018 - ASROB UC3M"
 keywords:    "asrob, uc3music, hardware, software, mechanics, arduino, dsp, robots"
-description: "Sitio web del Evento 2016"
+description: "Sitio web del Hackatón 2018  - ASROB UC3M"
 source_link: "#"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
