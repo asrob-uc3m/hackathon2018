@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "HACKATHON 2018"
+title:       "HACKATÓN 2018"
 keywords:    "asrob, uc3music, hardware, software, mechanics, arduino, dsp, robots"
-description: "Sitio web del HACKATHON 2018"
+description: "Sitio web del HACKATÓN 2018, organizado por UC3Music y ASROB"
 source_link: "#"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
