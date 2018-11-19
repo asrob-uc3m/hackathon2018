@@ -5,4 +5,4 @@ color: white
 fa-icon: sign-in
 ---
 
-### Para inscribirse, solo hay que rellenar el [siguiente formulario](https://goo.gl/forms/f5j6V635mY3IF7rd2)
+### Para inscribirse, solo hay que rellenar el [siguiente formulario](https://goo.gl/forms/f5j6V635mY3IF7rd2)¡CORRE, ULTIMAS PLAZAS DISPONIBLES!
